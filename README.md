@@ -7,6 +7,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-green)
 ![KNN](https://img.shields.io/badge/KNN-Algorithm-yellow)
 
+
 ![image](https://github.com/user-attachments/assets/85fed965-2d4c-415e-a976-702276c566b7)
 
 
