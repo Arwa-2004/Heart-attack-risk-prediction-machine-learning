@@ -1,5 +1,15 @@
-# Heart-attack-risk-prediction-machine-learning
-![image](https://github.com/user-attachments/assets/9c81af1c-4193-497a-9c47-e75e46e121fb)
+# Heart attack risk prediction 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.24.3-blue)
+![pandas](https://img.shields.io/badge/pandas-2.0.3-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.6.1-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-red)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-green)
+![KNN](https://img.shields.io/badge/KNN-Algorithm-yellow)
+
+![image](https://github.com/user-attachments/assets/85fed965-2d4c-415e-a976-702276c566b7)
+
+
 
  Early prediction of heart attack risk can significantly improve patient outcomes. This project aims to build a machine learning model to predict the risk of heart attack based on age, gender, cholesterol levels, blood pressure, heart rate, and indicators like diabetes, family history, smoking habits, obesity, and alcohol consumption.
 
